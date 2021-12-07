@@ -24,7 +24,7 @@ I am also interested in learning parallel computing and distributed systems.
 \
 <u>Qibin Chen</u>, Jeremy Lacomis, Edward J. Schwartz, Graham Neubig, Bogdan Vasilescu, Claire Le Goues
 \
-ICSE 2022 / arXiv coming soon / [GitHub](https://github.com/squaresLab/VarCLR)
+ICSE 2022 / [arXiv](https://arxiv.org/abs/2112.02650) / [GitHub](https://github.com/squaresLab/VarCLR)
 
 **Augmenting Decompiler Output with Learned Variable Names and Types**
 \
