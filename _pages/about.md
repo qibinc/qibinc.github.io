@@ -18,7 +18,7 @@ My research interests generally include representation learning, natural languag
 My current and past works span contrastive learning, graph representation learning, knowledge graphs, text generation, and question answering.
 I am also interested in learning parallel computing and distributed systems.
 
-**New:** I will be joining 🍎 Apple AI/ML as a Machine Learning Engineer in June 2022!
+**New:** I joined 🍎 Apple AI/ML as a Machine Learning Engineer in June 2022!
 
 ## Publications
 **VarCLR: Variable Semantic Representation Pre-training via Contrastive Learning**
