@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a final-year research-oriented Master's student of [Language Technology Institute](https://www.lti.cs.cmu.edu) in [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu).
-I am fortunate to be co-advised by Prof. [Claire Le Goues](https://clairelegoues.com/), Prof. [Bogdan Vasilescu](https://bvasiles.github.io/), and Prof. [Graham Neubig](http://www.phontron.com/).
+Hi! I am a Machine Learning Engineer at Apple AI/ML working on question answering.
+I graduated from the research-oriented master program MLT of [Language Technology Institute](https://www.lti.cs.cmu.edu) in [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu).
+I was fortunate to be co-advised by Prof. [Claire Le Goues](https://clairelegoues.com/) and Prof. [Bogdan Vasilescu](https://bvasiles.github.io/), and collaborate with Prof. [Graham Neubig](http://www.phontron.com/).
 Prior to that, I received Bachelor's degree in Computer Science at Tsinghua University.
 My undergraduate thesis, advised by Prof. [Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/), was honored outstanding thesis.
 
