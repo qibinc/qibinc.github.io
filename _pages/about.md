@@ -31,13 +31,13 @@ ICSE 2022 / [arXiv](https://arxiv.org/abs/2112.02650) / [GitHub](https://github.
 \
 <u>Qibin Chen</u>, Jeremy Lacomis, Edward J. Schwartz, Claire Le Goues, Graham Neubig, Bogdan Vasilescu
 \
-USENIX Security 2022 / [arXiv](https://arxiv.org/abs/2108.06363) / [GitHub](https://github.com/CMUSTRUDEL/DIRTY)
+USENIX Security 2022 <span style="color:#8B0000">(Distinguished Paper Award)</span> / [arXiv](https://arxiv.org/abs/2108.06363) / [GitHub](https://github.com/CMUSTRUDEL/DIRTY)
 
 **GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training**
 \
 Jiezhong Qiu, <u>Qibin Chen</u>, Yuxiao Dong, Jing Zhang, Hongxia Yang, Ming Ding, Kuansan Wang, Jie Tang
 \
-KDD 2020 (Most cited in KDD'20) / [arXiv](https://arxiv.org/abs/2006.09963) / [GitHub](https://github.com/THUDM/GCC)
+KDD 2020 <span style="color:#8B0000">(Most cited in KDD'20)</span> / [arXiv](https://arxiv.org/abs/2006.09963) / [GitHub](https://github.com/THUDM/GCC)
 
 **CogDL: An Extensive Toolkit for Deep Learning on Graphs**
 \
