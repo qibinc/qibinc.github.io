@@ -64,6 +64,8 @@ ACL 2019 (Oral) / [arXiv](https://arxiv.org/abs/1905.05460) / [GitHub](https://g
 KDD 2019 (Applied Data Science Track) / [arXiv](https://arxiv.org/abs/1903.12457) / [GitHub](https://github.com/THUDM/KOBE/)
 
 ## Awards
+Distinguished Paper Award, USENIX Security, 2022
+\
 Research Fellowship, Carnegie Mellon University, 2021/2020
 \
 Outstanding Undergraduate Thesis, Tsinghua University, 2019
