@@ -78,6 +78,6 @@ Research/Academic Excellence Award, 2018/2017/2016
 
 ## Services
 
-PC Member: KDD'23, ICMR'23, PAKDD'23, ICLR'22 DL4C Workshop
+PC Member: KDD'23, ICMR'23, IJCAI'23, PAKDD'23, ICLR'22 DL4C Workshop
 \
 Review Assistant: EACL'23, EMNLP'21, KDD'19
