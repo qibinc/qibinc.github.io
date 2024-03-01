@@ -8,17 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Machine Learning Engineer at Apple AI/ML working on LLM.
-I graduated from the research-oriented master program MLT of [Language Technology Institute](https://www.lti.cs.cmu.edu) in [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu).
-I was fortunate to be co-advised by Prof. [Claire Le Goues](https://clairelegoues.com/) and Prof. [Bogdan Vasilescu](https://bvasiles.github.io/), and collaborate with Prof. [Graham Neubig](http://www.phontron.com/).
-Prior to that, I received Bachelor's degree in Computer Science at Tsinghua University.
-My undergraduate thesis, advised by Prof. [Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/), was honored outstanding thesis.
-
-My research interests generally include representation learning, natural language processing, and their applications to software engineering.
-My current and past works span contrastive learning, graph representation learning, knowledge graphs, text generation, and question answering.
-I am also interested in learning parallel computing and distributed systems.
-
-**New:** I joined 🍎 Apple AI/ML as a Machine Learning Engineer in June 2022!
+Hi! I am a Machine Learning Researcher at Apple AI/ML, Foundation Models.
 
 ## Publications
 **VarCLR: Variable Semantic Representation Pre-training via Contrastive Learning**
