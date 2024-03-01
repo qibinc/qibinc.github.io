@@ -56,18 +56,12 @@ KDD 2019 (Applied Data Science Track) / [arXiv](https://arxiv.org/abs/1903.12457
 ## Awards
 <span style="color:#8B0000">Distinguished Paper Award, USENIX Security, 2022</span>
 \
-Research Fellowship, Carnegie Mellon University, 2021/2020
+Research Fellowship, Carnegie Mellon University
 \
-Outstanding Undergraduate Thesis, Tsinghua University, 2019
+Outstanding Undergraduate Thesis, Tsinghua University
 \
-Outstanding Graduate, Tsinghua University, 2019
+Outstanding Graduate, Tsinghua University
 \
-Qualcomm Scholarship, 2018
+Qualcomm Scholarship
 \
-Research/Academic Excellence Award, 2018/2017/2016
-
-## Services
-
-PC Member: KDD'23, ICMR'23, IJCAI'23, PAKDD'23, ICLR'22 DL4C Workshop
-\
-Review Assistant: EACL'23, EMNLP'21, KDD'19
+Academic Excellence Award, Tsinghua University
