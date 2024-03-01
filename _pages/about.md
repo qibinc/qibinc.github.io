@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Machine Learning Researcher at Apple AI/ML, Foundation Models.
+I am a Machine Learning Researcher at Apple AI/ML, Foundation Models.
 
 ## Publications
 **VarCLR: Variable Semantic Representation Pre-training via Contrastive Learning**
