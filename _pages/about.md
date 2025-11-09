@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Machine Learning Researcher at Apple AI/ML, Foundation Models.
+I am a Researcher at OpenAI.
 
 ## Publications
+
 **VarCLR: Variable Semantic Representation Pre-training via Contrastive Learning**
 \
 <u>Qibin Chen</u>, Jeremy Lacomis, Edward J. Schwartz, Graham Neubig, Bogdan Vasilescu, Claire Le Goues
