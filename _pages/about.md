@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Researcher at OpenAI.
+I am in Research @ OpenAI.
 
 ## Publications
 
